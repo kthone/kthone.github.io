@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kthone.github.io/sitemap.xml
